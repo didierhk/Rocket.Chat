@@ -159,7 +159,7 @@
 		"moment": "^2.20.1",
 		"moment-timezone": "^0.5.14",
 		"node-dogstatsd": "^0.0.7",
-		"object-path": "^0.11.4",
+		"object-path": "^0.11.5",
 		"photoswipe": "^4.1.2",
 		"poplib": "^0.1.7",
 		"prom-client": "^10.2.2",
