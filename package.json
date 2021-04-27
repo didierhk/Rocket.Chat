@@ -164,7 +164,7 @@
 		"poplib": "^0.1.7",
 		"prom-client": "^10.2.2",
 		"querystring": "^0.2.0",
-		"redis": "^2.8.0",
+		"redis": "^3.1.1",
 		"semver": "^5.5.0",
 		"sharp": "^0.20.2",
 		"speakeasy": "^2.0.0",
