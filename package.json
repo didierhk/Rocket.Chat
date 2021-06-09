@@ -128,7 +128,7 @@
 		"busboy": "^0.2.14",
 		"cas": "https://github.com/kcbanner/node-cas/tarball/fcd27dad333223b3b75a048bce27973fb3ca0f62",
 		"clipboard": "^1.7.1",
-		"codemirror": "^5.35.0",
+		"codemirror": "^5.61.0",
 		"coffeescript": "^1.12.7",
 		"connect": "^2.7.10",
 		"core-js": "^2.5.3",
